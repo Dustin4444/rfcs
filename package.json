@@ -1,0 +1,14 @@
+{
+  "name": "react-rfcs",
+  "version": "1.0.0",
+  "description": "React RFCs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.0.0"
+  },
+  "author": "Facebook",
+  "license": "MIT"
+}

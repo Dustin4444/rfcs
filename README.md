@@ -12,6 +12,32 @@ consistent and controlled path for new features to enter the project.
 
 [Active RFC List](https://github.com/reactjs/rfcs/pulls)
 
+## Project Purpose
+
+The purpose of this project is to provide a structured process for proposing and discussing substantial changes to the React library. This process helps ensure that new features and changes are well-documented, thoroughly reviewed, and have a consensus among the React core team before being implemented.
+
+## Getting Started
+
+To get started with the React RFC process, follow these steps:
+
+1. Fork the RFC repository: [http://github.com/reactjs/rfcs](http://github.com/reactjs/rfcs)
+2. Copy the `0000-template.md` file to `text/0000-my-feature.md`, where `my-feature` is a descriptive name for your proposed change. Do not assign an RFC number yet.
+3. Fill in the RFC template with the details of your proposal. Be sure to provide a clear motivation, detailed design, and any potential drawbacks or alternatives.
+4. Submit a pull request to the RFC repository. This will allow the community and the React core team to review and discuss your proposal.
+5. Iterate on the feedback received and make any necessary revisions to your RFC.
+6. Once there is a consensus, the React core team will decide whether to accept or reject the RFC.
+
+## Examples and Use Cases
+
+Here are some examples and use cases for the React RFC process:
+
+1. **New Feature Proposal**: If you have an idea for a new feature that would benefit the React community, you can submit an RFC to propose its addition to the library. For example, the introduction of hooks in React was proposed and discussed through the RFC process.
+
+2. **API Changes**: If you believe that an existing API should be modified or deprecated, you can submit an RFC to discuss the proposed changes. This ensures that the community has an opportunity to provide feedback and that the changes are well-documented.
+
+3. **Performance Improvements**: If you have identified a performance bottleneck in React and have a proposal for improving it, you can submit an RFC to discuss your findings and proposed solution. This allows the community to review and validate the proposed changes before they are implemented.
+
+4. **Documentation Enhancements**: If you have suggestions for improving the React documentation, you can submit an RFC to propose the changes. This ensures that the documentation remains clear, accurate, and helpful for the community.
 
 ## Contributor License Agreement (CLA)
 
@@ -117,7 +143,6 @@ the team should then close the RFCs associated pull request.
 * An RFC may be accepted at the close of its final comment period. A team
 member will merge the RFCs associated pull request, at which point the RFC will
 become 'active'.
-
 
 ## The RFC lifecycle
 

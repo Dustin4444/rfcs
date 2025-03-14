@@ -8,3 +8,15 @@ contact_links:
     - name: 🤔 Questions and Help
       url: https://reactjs.org/community/support.html
       about: This issue tracker is not for support questions. Please refer to the React community's help and discussion forums.
+labels:
+    - name: bug
+      color: "#d73a4a"
+    - name: enhancement
+      color: "#a2eeef"
+    - name: question
+      color: "#d876e3"
+milestones:
+    - title: v1.0
+      description: Initial release
+    - title: v2.0
+      description: Second major release
