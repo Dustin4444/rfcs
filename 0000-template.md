@@ -1,6 +1,16 @@
+<!--
+This template is used to create new RFC (Request for Comments) documents. It ensures that all RFCs follow a consistent structure and include necessary information for proposing new features or changes to the project. By following this template, contributors can create well-structured and comprehensive RFC documents, maintaining a high standard of documentation and ensuring thorough consideration and review of all proposals.
+-->
+
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - RFC PR: (leave this empty)
 - React Issue: (leave this empty)
+
+# Metadata
+
+- Author: (fill me in with the author's name)
+- Status: (fill me in with the current status of the RFC)
+- Version: (fill me in with the version of the RFC)
 
 # Summary
 
@@ -66,3 +76,7 @@ How should this feature be taught to existing React developers?
 
 Optional, but suggested for first drafts. What parts of the design are still
 TBD?
+
+# References
+
+Include links to related RFCs, documentation, or external resources that provide additional context or information.

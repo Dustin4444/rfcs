@@ -1,5 +1,7 @@
 # React RFCs
 
+The purpose of this repository is to provide a consistent and controlled path for new features to enter the project. The RFC (Request for Comments) process is essential in maintaining a high standard of documentation and ensuring that all proposals are thoroughly considered and reviewed.
+
 Many changes, including bug fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
@@ -12,7 +14,21 @@ consistent and controlled path for new features to enter the project.
 
 [Active RFC List](https://github.com/reactjs/rfcs/pulls)
 
+## Contributing Guidelines
 
+To contribute to this repository, follow these steps:
+
+1. Fork the repository and create a new branch for your changes.
+2. Make your changes in the new branch.
+3. Submit a pull request with a clear description of your changes and the motivation behind them.
+4. Engage in the discussion and address any feedback or concerns raised by the reviewers.
+5. Once your pull request is approved, it will be merged into the main branch.
+
+For more detailed information on the contribution process, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Code of Conduct
+
+We are committed to fostering a welcoming and inclusive community. Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for all contributors.
 ## Contributor License Agreement (CLA)
 
 In order to accept your pull request, we need you to submit a CLA. You only need
