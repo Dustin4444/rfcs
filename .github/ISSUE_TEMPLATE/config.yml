@@ -15,8 +15,16 @@ labels:
       color: "#a2eeef"
     - name: question
       color: "#d876e3"
+    - name: documentation
+      color: "#0075ca"
+    - name: test
+      color: "#c5def5"
+    - name: code quality
+      color: "#f9d0c4"
 milestones:
     - title: v1.0
       description: Initial release
     - title: v2.0
       description: Second major release
+    - title: v3.0
+      description: Third major release

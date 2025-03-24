@@ -38,6 +38,16 @@ To lint the code, use the following command:
 npm run lint
 ```
 
+## Code Guidelines
+To ensure clean and maintainable code, please follow these guidelines:
+
+1. Write clear and concise comments to explain complex code or logic.
+2. Use meaningful variable and function names.
+3. Keep functions small and focused on a single task.
+4. Avoid duplicating code by reusing functions and modules.
+5. Write unit tests and integration tests to cover your code changes.
+6. Follow the coding standards and best practices enforced by ESLint.
+
 ## License
 By contributing to rfcs, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of this source tree.
